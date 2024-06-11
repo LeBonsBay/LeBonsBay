@@ -2,6 +2,16 @@
 
 
 
+##   <img src = "https://media.tenor.com/WtDDOBNCKB8AAAAi/sonic-running.gif" width = "35" /> About Me
+
+
+-👨‍🎓 Student of @HTL-Steyr and (hopefully) in future a full-time software engineer!
+
+
+
+
+
+
 ### :hammer_and_wrench: Languages and Tools : 
 <div>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title = "C" alt = "C" width = "40" height = "40" />
