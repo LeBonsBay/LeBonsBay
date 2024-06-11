@@ -5,7 +5,7 @@
 ##   <img src = "https://media.tenor.com/WtDDOBNCKB8AAAAi/sonic-running.gif" width = "35" /> About Me
 
 
--👨‍🎓 Student of @HTL-Steyr and (hopefully) in future a full-time software engineer!
+-👨‍🎓 Student at @HTL-Steyr and (hopefully) in future a full-time software engineer!
 
 
 
