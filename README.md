@@ -15,7 +15,7 @@
 
 
 ### :hammer_and_wrench: Languages and Tools : 
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=LeBonsBay&color=FFAA00&abbreviated=true)
 
