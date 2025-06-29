@@ -15,7 +15,7 @@
 
 
 ### :hammer_and_wrench: Languages and Tools : 
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,javascript,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,javascript,tailwind,vite,idea)](https://skillicons.dev)
 
 ### ⚙️Frameworks :
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
