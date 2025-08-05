@@ -8,20 +8,20 @@
 
 
 
-##   <img src = "https://media.tenor.com/WtDDOBNCKB8AAAAi/sonic-running.gif" width = "35" /> About Me
 
 
-//WIP
+
+![Github Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeBonsBay&theme=apprentice)
+
 
 
 ### :hammer_and_wrench: Languages and Tools : 
 [![My Skills](https://skillicons.dev/icons?i=c,java,html,css,javascript,vite,idea)](https://skillicons.dev)
 
 ### ⚙️Frameworks :
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,vue)
 
 
-![Github Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeBonsBay&theme=apprentice)
 
 
 
