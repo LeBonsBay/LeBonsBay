@@ -11,7 +11,7 @@
 
 
 
-![Github Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeBonsBay&theme=ayu_mirage)
+![Github Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeBonsBay&theme=gruvbox)
 
 
 
