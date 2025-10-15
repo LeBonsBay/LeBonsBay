@@ -16,10 +16,10 @@
 
 
 ### :hammer_and_wrench: Languages and Tools : 
-![My Skills](https://skillicons.dev/icons?i=c,java,html,css,javascript,vite,idea)
+![My Skills](https://skillicons.dev/icons?i=c,java,javascript,html,css,vite,idea)
 
 ### ⚙️Frameworks :
-![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,vue)
+![My Skills](https://skillicons.dev/icons?i=vue,tailwind)
 
 
 
