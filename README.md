@@ -7,7 +7,7 @@
 
 ## :dart: Goals for 2025 
 
-- [ ] Building the habit of daily/weekly development
+- [ ] Building the habit of regular development
 - [ ] Learn how to plan and build projects
 - [ ] Get a deeper understanding of my used technologies
 - [X] Rebuild my portfolio & deploy it with a domain
