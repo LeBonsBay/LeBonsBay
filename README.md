@@ -3,7 +3,7 @@
 
 | :hammer_and_wrench: Languages & Tools | ⚙️Frameworks |
 | ----------- |----------- |
-|    ![My Skills](https://skillicons.dev/icons?i=c,java,javascript,html,css,markdown,vite,idea,git) |  ![My Skills](https://skillicons.dev/icons?i=vue,tailwind)|
+|    ![My Skills](https://skillicons.dev/icons?i=c,java,javascript,html,css,vite,idea,git) |  ![My Skills](https://skillicons.dev/icons?i=vue,tailwind)|
 
 ## :dart: Goals for 2026
 
