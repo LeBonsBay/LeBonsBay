@@ -1,4 +1,4 @@
-<a href="https://arminkeric.dev"><img src="/banner.jpg" alt="Armin Keric" width="600" height="1600"></a>
+<a href="https://arminkeric.dev"><img src="/banner.jpg" alt="Armin Keric" ></a>
 
 ![Now Playing](https://spotify-widget-deployment-dg7e.vercel.app/api/widget)
 
