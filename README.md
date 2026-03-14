@@ -1,13 +1,10 @@
-<a href="https://arminkeric.dev">
-  <img src="/banner.jpg">
-</a>
-
-|  Languages | Frameworks, Database & Tools |
-| ----------- |----------- |
-|    ![My Skills](https://skillicons.dev/icons?i=c,java,javascript,html,css) |  ![My Skills](https://skillicons.dev/icons?i=vue,tailwind,postgres,vite,git)|
+<a href="https://arminkeric.dev"><img src="/banner.jpg" alt="Armin Keric" width="600" height="1600"></a>
 
 ![Now Playing](https://spotify-widget-deployment-dg7e.vercel.app/api/widget)
 
+|  Languages | Frameworks, Database & Tools |
+| ----------- |----------- |
+| ![My Skills](https://skillicons.dev/icons?i=c,java,javascript,html,css) |  ![My Skills](https://skillicons.dev/icons?i=vue,tailwind,postgres,vite,git)|
 
 ## :dart: Goals for 2026
 
